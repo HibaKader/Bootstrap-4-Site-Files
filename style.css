@@ -22,7 +22,7 @@
 }
 
 
-/*---Firefox Bug Fix --*/
+/*--- Picture Transitions --*/
 .carousel-item {
   transition: -webkit-transform 0.5s ease;
   transition: transform 0.5s ease;
