@@ -2,6 +2,7 @@
 
 
 
+<!--- Image Slider -->
 
 
 
@@ -33,8 +34,8 @@
 /*--- Fixed Background Image --*/
 figure {
   position: relative;
-  width: 100%;
-  height: 60%;
+  width: 50%;
+  height: 50%;
   margin: 0!important;
 }
 .fixed-wrap {
